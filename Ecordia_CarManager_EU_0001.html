@@ -61,7 +61,7 @@
                     </tr>
                     <tr>
                         <td class="info_tr_header">Colour</td>
-                        <td class="info_tr_content">WHITE</td>
+                        <td class="info_tr_content">WHITE<div class="info_tr_color_indicator"></div></td>
                     </tr>
                 </table>
             </div>
@@ -168,6 +168,15 @@
     .info_content>p {
         text-indent: 2ch;
         font-size: large;
+    }
+    .info_tr_color_indicator {
+        box-sizing: border-box;
+        padding: 12px;
+        background-color: white;
+        width: 12px;
+        height: 12px;
+        display: inline-block;
+        margin: 0 0 0 12px;
     }
     .copyright {
         color: #666666;
