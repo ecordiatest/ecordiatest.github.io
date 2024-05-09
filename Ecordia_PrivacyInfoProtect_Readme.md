@@ -124,4 +124,5 @@
     PyCharm 下载地址：https://www.jetbrains.com/pycharm/download/ 选择Community版本即可。
     Pycharm 配置Conda中的Python环境：https://blog.csdn.net/qq_44886601/article/details/136006225
 
-## 七、Helper ： https://ecordiatest.github.io/Ecordia_PrivacyInfoProtect_Helper.html
+## 七、Tool use helper
+    https://ecordiatest.github.io/Ecordia_PrivacyInfoProtect_Helper.html
